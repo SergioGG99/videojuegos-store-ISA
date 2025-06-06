@@ -1,4 +1,4 @@
-# 🎮 Videojuegos Store ISA
+# Videojuegos Store ISA
 
 Este es el MVP (Producto Viable Mínimo) de una tienda online de venta de videojuegos, desarrollado como parte de la asignatura **Ingeniería del Software Avanzada**. El proyecto sigue principios de **Desarrollo Dirigido por Pruebas (TDD)** y se apoya en pruebas unitarias y de aceptación.
 
